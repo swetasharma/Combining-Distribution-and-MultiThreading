@@ -1,10 +1,7 @@
 # Combining-Distribution-and-Multithreading
 
-Fundamental blocks of distributed computing:
-
-Processes and Threads
-
-Within a process you can create multiple threads
+Processes and Threads are the Fundamental blocks of distributed computing:
+Within a process you can create multiple threads (JVM is one process)
 
 Multithreaded Servers:
 As an extension to the servers that we studied in client-server programming. As a motivating example, we studied the timeline for  a single request sent to a standard sequential server, which typically consists of four steps :
